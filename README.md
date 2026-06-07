@@ -2,23 +2,28 @@
 
 # Muhammad Mazhar
 
-### Linux Administration • Infrastructure Engineering • Systems Programming
+### Linux Administration • Networking • Systems Programming
 
-<p>
-Building and operating Linux infrastructure while working toward systems programming and kernel security research.
-</p>
+Managing Linux infrastructure today.
+Studying Linux internals for tomorrow.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=Managing+Debian+Servers+via+SSH;Deploying+Nginx+and+Network+Services;Building+Linux+Administration+Labs;Running+Windows+Server+and+Active+Directory;Studying+C+and+Linux+Internals" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=Managing+Debian+Servers+via+SSH;Deploying+Nginx+and+Network+Services;Building+Linux+Administration+Labs;Learning+Systems+Programming+in+C;Exploring+Linux+Internals" />
 
 </div>
 
 ---
 
-## About
+## Current Direction
 
-I am focused on Linux systems administration, networking, automation, and infrastructure management.
-
-My current work revolves around operating a multi-OS lab environment, documenting administration tasks, building Bash automation, and developing the low-level knowledge required for future systems and kernel security work.
+```text
+Linux Administration
+        ↓
+Systems Programming (C)
+        ↓
+Linux Internals
+        ↓
+Kernel Security Research
+```
 
 ---
 
@@ -27,14 +32,12 @@ My current work revolves around operating a multi-OS lab environment, documentin
 ```text
 Debian 13 Workstation
 │
-├── SSH Management
-│
 ├── Debian Server (Headless)
+│   ├── SSH Administration
 │   ├── Nginx
-│   ├── SSH
-│   ├── Firewall Configuration
-│   ├── Network Services
-│   └── System Administration
+│   ├── Firewall Management
+│   ├── Network Configuration
+│   └── Service Management
 │
 ├── Arch Linux VM
 │
@@ -42,56 +45,67 @@ Debian 13 Workstation
 │   └── Active Directory
 │
 └── Windows 10 Client
-    └── Domain Testing
 ```
 
 ---
 
-## Current Work
+## What I Work On
 
-* LPIC-1 Linux Administrator
-* Linux administration labs
-* Bash automation projects
-* Nginx deployment and management
-* Firewall configuration and troubleshooting
-* Networking fundamentals and diagnostics
-* C programming fundamentals
-* Obsidian-based technical documentation
+### Linux Administration
+
+* SSH administration
+* User and group management
+* File permissions
+* Service management with systemd
+* Package management
+* Log analysis
+* Firewall configuration
+
+### Networking
+
+* TCP/IP fundamentals
+* DNS troubleshooting
+* Port management
+* Network diagnostics
+* Routing concepts
+
+### Automation
+
+* Bash scripting
+* Linux administration automation
+* Reusable command-line workflows
+
+### Systems Programming
+
+Currently studying C and low-level operating system concepts as preparation for Linux internals and kernel development.
 
 ---
 
-## Technical Focus
+## Featured Repositories
 
-| Area           | Technologies                            |
-| -------------- | --------------------------------------- |
-| Linux          | Debian, Arch Linux                      |
-| Administration | SSH, systemd, users/groups, permissions |
-| Networking     | TCP/IP, DNS, Routing, Troubleshooting   |
-| Web Services   | Nginx                                   |
-| Security       | SSH Hardening, Firewall Management      |
-| Automation     | Bash                                    |
-| Diagnostics    | journalctl, ss, ps, top, lsof, strace   |
-| Infrastructure | Windows Server, Active Directory        |
+### linux-admin-labs
+
+Documented Linux administration exercises, troubleshooting scenarios, and lab deployments.
+
+### bash-automation
+
+Scripts created to automate Linux administration tasks.
+
+### networking-notes
+
+Networking concepts, troubleshooting workflows, and command references.
+
+### linux-internals-notes
+
+Notes covering operating systems, Linux internals, and kernel concepts.
 
 ---
 
-## Featured Projects
+## Certifications
 
-### Linux Administration Labs
-
-Documented administration exercises, troubleshooting scenarios, and solutions.
-
-### Linux Admin Scripts
-
-Bash automation scripts created while managing lab systems.
-
-### Networking Notes
-
-Networking concepts, commands, troubleshooting workflows, and reference material.
-
-### Kernel Learning Path
-
-Notes covering Linux internals, systems programming, and future kernel research topics.
+* Google IT Support Professional
+* Google Cybersecurity Professional
+* LPIC-1 Linux Administrator *(In Progress)*
 
 ---
 
@@ -101,39 +115,18 @@ Notes covering Linux internals, systems programming, and future kernel research 
 * How Linux Works
 * The C Programming Language
 * Computer Systems: A Programmer's Perspective
-* Linux Kernel Development
 
 ---
 
-## Direction
+## Principles
 
-```text
-Linux Administration
-        ↓
-Infrastructure Engineering
-        ↓
-Systems Programming (C)
-        ↓
-Linux Internals
-        ↓
-Kernel Development
-        ↓
-Kernel Security Research
-```
-
----
-
-## Certifications
-
-* Google IT Support Professional
-* Google Cybersecurity Professional
-* LPIC-1 Linux Administrator (In Progress)
+> Build systems.
+> Understand systems.
+> Document everything.
 
 ---
 
 <div align="center">
-
-### Connect
 
 <a href="https://github.com/muhammad-mazhar-sec">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -142,12 +135,5 @@ Kernel Security Research
 <a href="https://linkedin.com/in/muhammad-mazhar-sec">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
 
 </div>
