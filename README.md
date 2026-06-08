@@ -2,7 +2,7 @@
 
 # Muhammad Mazhar
 
-### Linux Administration • Networking • Systems Programming
+### Linux Administration
 
 Managing Linux infrastructure today.
 Studying Linux internals for tomorrow.
@@ -83,21 +83,14 @@ Currently studying C and low-level operating system concepts as preparation for 
 
 ## Featured Repositories
 
-### linux-admin-labs
+### linux-lab-notes
 
 Documented Linux administration exercises, troubleshooting scenarios, and lab deployments.
 
-### bash-automation
+### sysadmin-scripts
 
 Scripts created to automate Linux administration tasks.
 
-### networking-notes
-
-Networking concepts, troubleshooting workflows, and command references.
-
-### linux-internals-notes
-
-Notes covering operating systems, Linux internals, and kernel concepts.
 
 ---
 
